@@ -1,0 +1,58 @@
+{
+  "id": "4083136",
+  "name": "01",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "34064732",
+      "name": "哔哩哔哩",
+      "font_class": "bilibili",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "18166694",
+      "name": "抖音",
+      "font_class": "douyin",
+      "unicode": "e8db",
+      "unicode_decimal": 59611
+    },
+    {
+      "icon_id": "4937000",
+      "name": "github-fill",
+      "font_class": "github-fill",
+      "unicode": "e885",
+      "unicode_decimal": 59525
+    },
+    {
+      "icon_id": "1546574",
+      "name": "公众号",
+      "font_class": "gongzhonghao",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "1360",
+      "name": "新浪微博",
+      "font_class": "xinlangweibo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1004715",
+      "name": "腾讯qq",
+      "font_class": "tengxunqq",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "14055574",
+      "name": "微信",
+      "font_class": "weixin1",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}
